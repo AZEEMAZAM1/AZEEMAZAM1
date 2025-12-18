@@ -5,7 +5,7 @@
   - 🎓 BSc completed
   - 📚 Preparing for **CCNA** and **CompTIA A+** certifications
   
-- Feel free to check out my portfolio website to know more about me!, and let's connect on [LinkedIn 😉](YOUR-LINKEDIN-URL)
+- Feel free to check out my portfolio website to know more about me!, and let's connect on [LinkedIn 😉](https://www.linkedin.com/in/muhammad-azeem5)
 
 <div align="center">
   
