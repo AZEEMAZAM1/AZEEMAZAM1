@@ -1,7 +1,7 @@
 # Howdy👋, Muhammad Azeem here
 
 - I am an aspiring **Network Engineer and IT Support Technician** in **London, UK** 🇬🇧 building hands-on skills:
-  - 🛵 Uber Eats, Just Eat, Deliveroo (delivery rider)
+  - 🚀 Entrepreneur - launching my app very soon!
   - 🎓 BSc completed
   - 📚 Preparing for **CCNA** and **CompTIA A+** certifications
   
