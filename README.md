@@ -7,6 +7,18 @@
   
 - Feel free to check out my portfolio website to know more about me!, and let's connect on [LinkedIn 😉](https://www.linkedin.com/in/muhammad-azeem5)
 
+- ---
+
+## 📱 Download My App
+
+🚀 **Coming Soon!** I'm currently developing a mobile application that will be available for download.
+
+### Stay tuned for:
+- 📲 Android version on Google Play Store
+- 🍎 iOS version on Apple App Store
+
+> 💡 Check back soon or follow me on [LinkedIn](https://www.linkedin.com/in/muhammad-azeem5) for updates!
+
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/AZEEMAZAM1?label=FOLLOWERS&style=for-the-badge)](https://github.com/AZEEMAZAM1)
