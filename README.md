@@ -6,6 +6,8 @@
   - 📚 Preparing for **CCNA** and **CompTIA A+** certifications
   
 - Feel free to check out my portfolio website to know more about me!, and let's connect on [LinkedIn 😉](https://www.linkedin.com/in/muhammad-azeem5)
+- 
+- Check out my **Deliveroo** contributions: [@Deliveroo](https://github.com/AZEEMAZAM1?tab=overview&from=2025-01-01&to=2026-01-05) 🛵
 
 - ---
 
