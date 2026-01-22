@@ -4,7 +4,13 @@
   - 🚀 Entrepreneur - launching my app very soon!
   - 🎓 BSc completed
   - 📚 Preparing for **CCNA** and **CompTIA A+** certifications
-  
+
+
+  ### 🍎 iOS & Swift Development
+- 📱 Building native iOS apps with **Swift**, **SwiftUI**, and **UIKit**
+- 🔧 Learning **Objective-C** to understand legacy codebases and strengthen Apple ecosystem foundations
+- 🎯 Focused on creating clean, user-centric mobile experiences
+- 🚀 Working toward publishing my first iOS app to the **App Store** as part of my portfolio
 - Feel free to check out my portfolio website to know more about me!, and let's connect on [LinkedIn 😉](https://www.linkedin.com/in/muhammad-azeem5)
 - 
 - Check out my **Deliveroo** contributions: [@Deliveroo](https://github.com/AZEEMAZAM1?tab=overview&from=2025-01-01&to=2026-01-05) 🛵
