@@ -3,6 +3,7 @@
 <!-- update 5 -->
 <!-- update 6 -->
 <!-- update 7 -->
+<!-- update 8 -->
 
 <!-- collab update -->
 - I am an aspiring **Network Engineer and IT Support Technician** in **London, UK** 🇬🇧 building hands-on skills:
