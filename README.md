@@ -13,6 +13,7 @@
 <!-- update 15 -->
 <!-- update 16 -->
 <!-- update 17 -->
+<!-- update 18 - final for Pull Shark Bronze -->
 
 <!-- collab update -->
 - I am an aspiring **Network Engineer and IT Support Technician** in **London, UK** 🇬🇧 building hands-on skills:
